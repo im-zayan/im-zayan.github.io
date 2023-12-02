@@ -14,12 +14,12 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: im-zayan # the main title
 
 tagline: HOW TO AI. FOR DUMMIES BY DUMMY. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Personal blog about my self study
+  blog, machine learning, ai, github
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -34,7 +34,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Ibrahim Zayan
+  name: im-zayan
   email: zayannx@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
